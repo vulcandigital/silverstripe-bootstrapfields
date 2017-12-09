@@ -1,0 +1,25 @@
+{
+  "name": "vulcandigital/silverstripe-bootstrapfields",
+  "description": "A few little components that help with structuring a Form with bootstrap",
+  "type": "silverstripe-vendormodule",
+  "homepage": "https://github.com/vulcandigital/silverstripe-bootstrapfields",
+  "license": "BSD-3 Clause",
+  "authors": [
+    {
+      "name": "Reece Alexander",
+      "email": "reece@vulcandigital.co.nz"
+    }
+  ],
+  "require": {
+    "silverstripe/framework": "^4.0"
+  },
+  "require-dev": {
+    "phpunit/PHPUnit": "^5.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "Vulcan\\BootstrapFields\\": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}
