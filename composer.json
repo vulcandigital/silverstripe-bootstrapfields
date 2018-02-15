@@ -3,7 +3,7 @@
   "description": "A few little components that help with structuring a Form with bootstrap",
   "type": "silverstripe-vendormodule",
   "homepage": "https://github.com/vulcandigital/silverstripe-bootstrapfields",
-  "license": "BSD-3 Clause",
+  "license": "BSD-3-Clause",
   "authors": [
     {
       "name": "Reece Alexander",
